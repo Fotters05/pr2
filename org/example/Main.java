@@ -6,7 +6,7 @@ import model.User;
 
 public class Main {
     public static void main(String[] args) {
-        User[] users = new User[3];
+        User[] users = new User[10];
         Scanner scanner = new Scanner(System.in);
 
         for (int i = 0; i < users.length; i++) {
